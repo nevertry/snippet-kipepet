@@ -1,1 +1,1 @@
-psql -U <username> -d <dbname> -1 -f <filename>.sql
+psql -U <username> -d <dbname> -h <host> -1 -f <filename>.sql
